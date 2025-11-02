@@ -1,20 +1,28 @@
-# A-Path-Finding-Visualization
-A python visualization of the A* path finding algorithm. It allows you to pick your start and end location and view the process of finding the shortest path.
+# A* Path Finding Visualization
 
-# Requirements
-- Python 3.x
-- TKinter
-- Pygame
+A Python-based visualization of the **A\*** (A-star) pathfinding algorithm.  
+This tool lets you choose a start and end point on a grid and watch the algorithm find the shortest path around obstacles in real-time using **Pygame**.
 
-# 💻 Launch Your Software Development Career Today!  
+---
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+## 🚀 Features
+- Interactive grid system
+- Choose start, end, and obstacle cells
+- Real-time visualization of A* pathfinding
+- Simple and lightweight Python project
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+---
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+## 🧰 Requirements
+- Python 3.x  
+- Pygame  
+- (Tkinter is optional, depending on your version of Python—it’s usually preinstalled)
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/anupamasingeetham/A-Path-Finding-Visualization.git
+cd A-Path-Finding-Visualization
